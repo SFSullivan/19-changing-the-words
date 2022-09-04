@@ -14,7 +14,7 @@ SO THAT I can reliably retrieve them for later use
 
 ## Video of the app functioning can be found [here](https://drive.google.com/file/d/191Sob10rvzy0Sxn6pKRg1_9YSZ_vbxuA/view)
 
-## Fing the repository on [Github](https://github.com/SFSullivan/19-changing-the-words)
+## Find the repository on [Github](https://github.com/SFSullivan/19-changing-the-words)
 
 ## Screenshots of the app
 
